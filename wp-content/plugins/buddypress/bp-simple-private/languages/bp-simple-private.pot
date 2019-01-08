@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bp-simple-private\n"
+"POT-Creation-Date: 2015-12-06 14:25-0800\n"
+"PO-Revision-Date: 2015-12-06 14:25-0800\n"
+"Last-Translator: \n"
+"Language-Team: PhiloPress\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n:1,2;_x:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../loader.php:22
+msgid ""
+"<strong>BuddyPress Simple Private</strong></a> requires the BuddyPress "
+"plugin. Please <a href=\"http://buddypress.org/download\">install "
+"BuddyPress</a> first, or <a href=\"plugins.php\">deactivate BuddyPress "
+"Simple Private</a>."
+msgstr ""
+
+#: ../inc/pp-private-admin-meta-box.php:28
+msgid "Public or Private"
+msgstr ""
+
+#: ../inc/pp-private-admin-meta-box.php:47
+msgid "This is your Front Page - and cannot be Private."
+msgstr ""
+
+#: ../inc/pp-private-admin-meta-box.php:54
+msgid "This post or page cannot be seen unless the user is logged-in:"
+msgstr ""
+
+#: ../inc/pp-private-admin-settings.php:20
+msgid "BP Simple Private"
+msgstr ""
+
+#: ../inc/pp-private-admin-settings.php:91
+msgid ""
+"When a non-logged-in user tries to access Private content, they will be sent "
+"to:"
+msgstr ""
+
+#: ../inc/pp-private-admin-settings.php:95
+msgid "If you'd like to set a custom redirection URL, please visit:"
+msgstr ""
+
+#: ../inc/pp-private-admin-settings.php:103
+msgid ""
+"Select which BuddyPress sections are NOT viewable by non-logged-in users:"
+msgstr ""
+
+#: ../inc/pp-private-admin-settings.php:126
+msgid ""
+"For selected Post Types, a Public or Private checkbox will appear in the "
+"upper right corner of their wp-admin Create and Edit screens."
+msgstr ""
+
+#: ../inc/pp-private-admin-settings.php:147
+msgid "Save Settings"
+msgstr ""
+
+#: ../inc/pp-private-admin-settings.php:187
+msgid "Settings have been updated."
+msgstr ""

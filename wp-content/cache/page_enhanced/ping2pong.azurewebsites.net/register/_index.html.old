@@ -1,0 +1,695 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en-US"><![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8" lang="en-US"><![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en-US"><![endif]-->
+<!--[if IE 9]><html class="no-js lt-ie10" lang="en-US"><![endif]-->
+<!--[if gt IE 9]><!-->
+<html class="no-js" lang="en-US">
+<!--<![endif]-->
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE" />
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="mobile-web-app-capable" content="yes">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://ping2pong.azurewebsites.net/xmlrpc.php">
+	
+	<!-- Fav and touch icons -->
+		<link rel="shortcut icon" href="http://ping2pong.azurewebsites.net/wp-content/uploads/2016/01/cropped-p2p-symbol-2.png?b04220">
+			<link rel="apple-touch-icon-precomposed" href="http://ping2pong.azurewebsites.net/wp-content/uploads/2016/01/cropped-p2p-symbol-2.png?b04220">
+	   
+		<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://ping2pong.azurewebsites.net/wp-content/uploads/2016/01/cropped-p2p-symbol-2.png?b04220">
+	   
+		<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://ping2pong.azurewebsites.net/wp-content/uploads/2016/01/cropped-p2p-symbol-2.png?b04220">
+	   
+		<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://ping2pong.azurewebsites.net/wp-content/uploads/2016/01/cropped-p2p-symbol-2.png?b04220">
+	
+	<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+	<!--[if lt IE 9]>
+	<script src="http://ping2pong.azurewebsites.net/wp-content/themes/kleo/assets/js/html5shiv.js?b04220"></script>
+	<![endif]-->
+
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="http://ping2pong.azurewebsites.net/wp-content/themes/kleo/assets/css/fontello-ie7.css?b04220">
+	<![endif]-->
+	
+	
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			var ajaxurl = 'http://ping2pong.azurewebsites.net/wp-admin/admin-ajax.php';
+			/* ]]> */
+		</script>
+
+		
+	
+	<title>Create an Account &#8211; PING2PONG</title>
+<link rel="alternate" type="application/rss+xml" title="PING2PONG &raquo; Feed" href="http://ping2pong.azurewebsites.net/feed/" />
+<link rel="alternate" type="application/rss+xml" title="PING2PONG &raquo; Comments Feed" href="http://ping2pong.azurewebsites.net/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/ping2pong.azurewebsites.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.2"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d"),f=String.fromCharCode;return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(f(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(f(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(f(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(f(55357,56835),0,0):e.fillText(f(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='dashicons-css'  href="http://ping2pong.azurewebsites.net/wp-includes/css/dashicons.min.css?b04220" type='text/css' media='all' />
+<link rel='stylesheet' id='wp-jquery-ui-dialog-css'  href="http://ping2pong.azurewebsites.net/wp-includes/css/jquery-ui-dialog.min.css?b04220" type='text/css' media='all' />
+<link rel='stylesheet' id='bp-parent-css-css'  href="http://ping2pong.azurewebsites.net/wp-content/themes/kleo/buddypress/css/buddypress.css?b04220" type='text/css' media='screen' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href="http://ping2pong.azurewebsites.net/wp-content/plugins/revslider/public/assets/css/settings.css?b04220" type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='bootstrap-css'  href="http://ping2pong.azurewebsites.net/wp-content/themes/kleo/assets/css/bootstrap.min.css?b04220" type='text/css' media='all' />
+<link rel='stylesheet' id='kleo-app-css'  href="http://ping2pong.azurewebsites.net/wp-content/themes/kleo/assets/css/app.min.css?b04220" type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href="http://ping2pong.azurewebsites.net/wp-content/themes/kleo/assets/js/plugins/magnific-popup/magnific.css?b04220" type='text/css' media='all' />
+<link rel='stylesheet' id='kleo-fonts-css'  href="http://ping2pong.azurewebsites.net/wp-content/themes/kleo/assets/css/fontello.css?b04220" type='text/css' media='all' />
+<link rel='stylesheet' id='mediaelement-css'  href="http://ping2pong.azurewebsites.net/wp-includes/js/mediaelement/mediaelementplayer.min.css?b04220" type='text/css' media='all' />
+<link rel='stylesheet' id='kleo-google-fonts-css'  href='//fonts.googleapis.com/css?family=Roboto+Condensed%3A300%7COpen+Sans%3A400&#038;ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='kleo-colors-css'  href="http://ping2pong.azurewebsites.net/wp-content/uploads/custom_styles/dynamic.css?b04220" type='text/css' media='all' />
+<link rel='stylesheet' id='kleo-plugins-css'  href="http://ping2pong.azurewebsites.net/wp-content/themes/kleo/assets/css/plugins.min.css?b04220" type='text/css' media='all' />
+<script type='text/javascript' src="http://ping2pong.azurewebsites.net/wp-includes/js/jquery/jquery.js?b04220"></script>
+<script type='text/javascript' src="http://ping2pong.azurewebsites.net/wp-includes/js/jquery/jquery-migrate.min.js?b04220"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var BP_Confirm = {"are_you_sure":"Are you sure?"};
+/* ]]> */
+</script>
+<script type='text/javascript' src="http://ping2pong.azurewebsites.net/wp-content/plugins/buddypress/bp-core/js/confirm.min.js?b04220"></script>
+<script type='text/javascript' src="http://ping2pong.azurewebsites.net/wp-content/plugins/buddypress/bp-core/js/widget-members.min.js?b04220"></script>
+<script type='text/javascript' src="http://ping2pong.azurewebsites.net/wp-content/plugins/buddypress/bp-core/js/jquery-query.min.js?b04220"></script>
+<script type='text/javascript' src="http://ping2pong.azurewebsites.net/wp-content/plugins/buddypress/bp-core/js/jquery-cookie.min.js?b04220"></script>
+<script type='text/javascript' src="http://ping2pong.azurewebsites.net/wp-content/plugins/buddypress/bp-core/js/jquery-scroll-to.min.js?b04220"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var BP_DTheme = {"accepted":"Accepted","close":"Close","comments":"comments","leave_group_confirm":"Are you sure you want to leave this group?","mark_as_fav":" ","my_favs":"My Favorites","rejected":"Rejected","remove_fav":" ","show_all":"Show all","show_all_comments":"Show all comments for this thread","show_x_comments":"Show all %d comments","unsaved_changes":"Your profile has unsaved changes. If you leave the page, the changes will be lost.","view":"View"};
+/* ]]> */
+</script>
+<script type='text/javascript' src="http://ping2pong.azurewebsites.net/wp-content/themes/kleo/buddypress/js/buddypress.js?b04220"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _zxcvbnSettings = {"src":"http:\/\/ping2pong.azurewebsites.net\/wp-includes\/js\/zxcvbn.min.js"};
+/* ]]> */
+</script>
+<script type='text/javascript' src="http://ping2pong.azurewebsites.net/wp-includes/js/zxcvbn-async.min.js?b04220"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pwsL10n = {"short":"Very weak","bad":"Weak","good":"Medium","strong":"Strong","mismatch":"Mismatch"};
+/* ]]> */
+</script>
+<script type='text/javascript' src="http://ping2pong.azurewebsites.net/wp-admin/js/password-strength-meter.min.js?b04220"></script>
+<script type='text/javascript' src="http://ping2pong.azurewebsites.net/wp-content/plugins/buddypress/bp-templates/bp-legacy/js/password-verify.min.js?b04220"></script>
+<script type='text/javascript' src="http://ping2pong.azurewebsites.net/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?b04220"></script>
+<script type='text/javascript' src="http://ping2pong.azurewebsites.net/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?b04220"></script>
+<script type='text/javascript' src="http://ping2pong.azurewebsites.net/wp-content/themes/kleo/assets/js/init.js?b04220"></script>
+<script type='text/javascript' src="http://ping2pong.azurewebsites.net/wp-content/themes/kleo/assets/js/modernizr.custom.46504.js?b04220"></script>
+<link rel='https://api.w.org/' href='http://ping2pong.azurewebsites.net/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://ping2pong.azurewebsites.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://ping2pong.azurewebsites.net/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.4.2" />
+<link rel='shortlink' href='http://ping2pong.azurewebsites.net/?p=381' />
+<link rel="alternate" type="application/json+oembed" href="http://ping2pong.azurewebsites.net/wp-json/oembed/1.0/embed?url" />
+<link rel="alternate" type="text/xml+oembed" href="http://ping2pong.azurewebsites.net/wp-json/oembed/1.0/embed?url&#038;format=xml" />
+
+	<script type="text/javascript">var ajaxurl = 'http://ping2pong.azurewebsites.net/wp-admin/admin-ajax.php';</script>
+
+<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://ping2pong.azurewebsites.net/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css?b04220" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://ping2pong.azurewebsites.net/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css?b04220" media="screen"><![endif]-->
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			var ajaxurl = 'http://ping2pong.azurewebsites.net/wp-admin/admin-ajax.php';
+			/* ]]> */
+		</script>
+
+	<link rel='canonical' href='http://ping2pong.azurewebsites.net/register/' />
+<meta name="generator" content="Powered by Slider Revolution 5.1.3 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+
+<style>
+
+</style>
+<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+
+
+<body class="registration register  buddypress page page-id-381 page-template-default kleo-navbar-fixed navbar-resize wpb-js-composer js-comp-ver-4.8.1 vc_responsive no-js" itemscope itemtype="http://schema.org/WebPage">
+	
+		
+	<!-- PAGE LAYOUT
+	================================================ -->
+	<!--Attributes-->
+	<div class="kleo-page">
+
+
+	<!-- HEADER SECTION
+	================================================ -->
+	
+<div id="header" class="header-color">
+	
+	<div class="navbar" role="navigation">
+
+		
+                        <div class="kleo-main-header header-normal">
+				<div class="container">   
+					<!-- Brand and toggle get grouped for better mobile display -->
+					<div class="navbar-header">
+						<div class="kleo-mobile-switch">
+
+                                                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".nav-collapse">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+
+						</div>
+						
+						<div class="kleo-mobile-icons">
+							
+														
+						</div>
+						
+						<strong class="logo">
+							<a href="http://ping2pong.azurewebsites.net">
+								
+																	
+									PING2PONG									
+																	
+							</a>
+						</strong>
+					</div>
+
+                    
+					<!-- Collect the nav links, forms, and other content for toggling -->
+									</div><!--end container-->
+			</div>
+			
+	</div>
+
+</div><!--end header-->	
+	<!-- MAIN SECTION
+	================================================ -->
+	<div id="main">
+
+	
+
+
+
+
+
+
+<section class="container-wrap main-color">
+	<div id="main-container" class="container">
+		<div class="row"> 
+			<div class="template-page col-sm-12 tpl-no">
+				<div class="wrap-content">
+					
+				
+	<div class="row">
+		<div class="col-sm-12">
+			
+						
+			<div class="article-content">
+					<div id="buddypress">
+
+	
+	<div class="page" id="register-page">
+
+		<form action="" name="signup_form" id="signup_form" class="standard-form" method="post" enctype="multipart/form-data">
+
+		
+		
+			
+			<p>Registering for this site is easy. Just fill in the fields below, and we'll get a new account set up for you in no time.</p>
+
+			
+				<div class="row">
+					
+					<div class="col-sm-6">
+			
+						
+						<div class="register-section" id="basic-details-section">
+
+						
+						<h4>Account Details</h4>
+
+						<label for="signup_username">Username (required)</label>
+												<input type="text" name="signup_username" id="signup_username" value="" />
+
+						<label for="signup_email">Email Address (required)</label>
+												<input type="text" name="signup_email" id="signup_email" value="" />
+
+						<label for="signup_password">Choose a Password (required)</label>
+												<input type="password" name="signup_password" id="signup_password" value="" class="password-entry" />
+                        <div id="pass-strength-result"></div>
+
+						<label for="signup_password_confirm">Confirm Password (required)</label>
+												<input type="password" name="signup_password_confirm" id="signup_password_confirm" value="" class="password-entry-confirm" />
+
+						
+					</div><!-- #basic-details-section -->
+
+									</div>
+				<div class="col-sm-6">
+
+					
+					
+						
+						<div class="register-section" id="profile-details-section">
+
+							<h4>Profile Details</h4>
+
+														
+							
+                                <div class="editfield field_1 field_name required-field visibility-public field_type_textbox">
+
+									
+		<label for="field_1">
+			Name			 <span class="bp-required-field-label">(required)</span>		</label>
+
+		
+		<input  id="field_1" name="field_1" type="text" value="" aria-required="true">
+
+												<p class="field-visibility-settings-notoggle" id="field-visibility-settings-toggle-1">
+											This field can be seen by: <span class="current-visibility-level">Everyone</span>										</p>
+									
+									
+									<p class="description"></p>
+
+								</div>
+
+							
+                                <div class="editfield field_11 field_practicing-language required-field visibility-public alt field_type_selectbox">
+
+									
+		<label for="field_11">
+			Practicing Language			 <span class="bp-required-field-label">(required)</span>		</label>
+
+		
+		<select  id="field_11" name="field_11" aria-required="true">
+			<option value="">----</option><option value="English">English</option><option value="Mandarin">Mandarin</option><option value="Japanese">Japanese</option><option value="Korean">Korean</option><option value="Bangla">Bangla</option><option value="Other">Other</option>		</select>
+
+												<p class="field-visibility-settings-notoggle" id="field-visibility-settings-toggle-11">
+											This field can be seen by: <span class="current-visibility-level">Everyone</span>										</p>
+									
+									
+									<p class="description"></p>
+
+								</div>
+
+							
+                                <div class="editfield field_251 field_message-to-teacher required-field visibility-public field_type_textarea">
+
+									
+		<label for="field_251">
+			Message to Teacher			 <span class="bp-required-field-label">(required)</span>		</label>
+
+		<div id="wp-field_251-wrap" class="wp-core-ui wp-editor-wrap tmce-active"><link rel='stylesheet' id='editor-buttons-css'  href="http://ping2pong.azurewebsites.net/wp-includes/css/editor.min.css?b04220" type='text/css' media='all' />
+<div id="wp-field_251-editor-tools" class="wp-editor-tools hide-if-no-js"><div class="wp-editor-tabs"><button type="button" id="field_251-tmce" class="wp-switch-editor switch-tmce" data-wp-editor-id="field_251">Visual</button>
+<button type="button" id="field_251-html" class="wp-switch-editor switch-html" data-wp-editor-id="field_251">Text</button>
+</div>
+</div>
+<div id="wp-field_251-editor-container" class="wp-editor-container"><div id="qt_field_251_toolbar" class="quicktags-toolbar"></div><textarea class="wp-editor-area" rows="10" autocomplete="off" cols="40" name="field_251" id="field_251"></textarea></div>
+</div>
+
+										<p class="field-visibility-settings-notoggle" id="field-visibility-settings-toggle-251">
+											This field can be seen by: <span class="current-visibility-level">Everyone</span>										</p>
+									
+									
+									<p class="description"></p>
+
+								</div>
+
+							
+                                <div class="editfield field_71 field_native-language required-field visibility-public alt field_type_selectbox">
+
+									
+		<label for="field_71">
+			Native Language			 <span class="bp-required-field-label">(required)</span>		</label>
+
+		
+		<select  id="field_71" name="field_71" aria-required="true">
+			<option value="">----</option><option value="English">English</option><option value="Mandarin">Mandarin</option><option value="Japanese">Japanese</option><option value="Korean">Korean</option><option value="Bangla">Bangla</option><option value="Other">Other</option>		</select>
+
+												<p class="field-visibility-settings-notoggle" id="field-visibility-settings-toggle-71">
+											This field can be seen by: <span class="current-visibility-level">Everyone</span>										</p>
+									
+									
+									<p class="description"></p>
+
+								</div>
+
+							
+                                <div class="editfield field_261 field_message-to-student required-field visibility-public field_type_textarea">
+
+									
+		<label for="field_261">
+			Message to Student			 <span class="bp-required-field-label">(required)</span>		</label>
+
+		<div id="wp-field_261-wrap" class="wp-core-ui wp-editor-wrap tmce-active"><div id="wp-field_261-editor-tools" class="wp-editor-tools hide-if-no-js"><div class="wp-editor-tabs"><button type="button" id="field_261-tmce" class="wp-switch-editor switch-tmce" data-wp-editor-id="field_261">Visual</button>
+<button type="button" id="field_261-html" class="wp-switch-editor switch-html" data-wp-editor-id="field_261">Text</button>
+</div>
+</div>
+<div id="wp-field_261-editor-container" class="wp-editor-container"><div id="qt_field_261_toolbar" class="quicktags-toolbar"></div><textarea class="wp-editor-area" rows="10" autocomplete="off" cols="40" name="field_261" id="field_261"></textarea></div>
+</div>
+
+										<p class="field-visibility-settings-notoggle" id="field-visibility-settings-toggle-261">
+											This field can be seen by: <span class="current-visibility-level">Everyone</span>										</p>
+									
+									
+									<p class="description"></p>
+
+								</div>
+
+							
+							<input type="hidden" name="signup_profile_field_ids" id="signup_profile_field_ids" value="1,11,251,71,261" />
+
+							
+							
+						</div><!-- #profile-details-section -->
+
+						
+									
+				</div>
+			</div>
+
+			
+			
+	<div class="register-section" id="security-section" style="clear:both; float:right; margin-top:30px;">
+		<div class="editfield">
+			
+			<div id="mm-nocaptcha"></div>
+
+			
+		</div>
+	</div>
+	<script type="text/javascript">
+		var onloadCaptchaCallback = function() {
+			grecaptcha.render('mm-nocaptcha', {
+				'sitekey' : '6LcxghQTAAAAALwebCBRk7IaTlGKGkdgPIBr-gDN',
+				'theme' : 'light',
+				'type' : 'image'
+			});
+		};
+	</script>
+	
+			<div class="submit">
+				<input type="submit" name="signup_submit" id="signup_submit" value="Complete Sign Up" />
+			</div>
+
+			
+			<input type="hidden" id="_wpnonce" name="_wpnonce" value="f14e680efa" /><input type="hidden" name="_wp_http_referer" value="/register/" />
+		
+		
+		
+		</form>
+
+	</div>
+
+	
+</div><!-- #buddypress -->
+			</div><!--end article-content-->
+		</div><!--end twelve-->
+	</div>
+
+
+	        
+
+				
+				</div><!--end wrap-content-->
+			</div><!--end main-page-template-->
+						</div><!--end .row-->		</div><!--end .container-->
+  
+</section>
+<!--END MAIN SECTION-->
+
+			
+		</div><!-- #main -->
+
+			
+				
+		<!-- SOCKET SECTION
+		================================================ -->
+
+		<div id="socket" class="socket-color">
+			<div class="container">
+				<div class="template-page tpl-no col-xs-12 col-sm-12">
+					<div class="wrap-content">
+
+						<div class="row">
+							<div class="col-sm-12">
+								<div class="gap-10"></div>
+							</div><!--end widget-->
+
+							<div class="col-sm-12">
+								<p style="text-align: center;"><a href="https://www.iubenda.com/privacy-policy/7782945/full-legal" target="_blank">Privacy Policy</a></p>
+<p style="text-align: center;"><a href="http://ping2pong.azurewebsites.net/terms-and-conditions">Terms and Conditions</a></p>
+<p style="text-align: center;"><a href="http://ping2pong.azurewebsites.net/contact" target="_blank">Contact Us</a></p>
+<p style="text-align: center;"><strong>©2016 - ping2pong.com</strong></p>							</div>
+							
+							<div class="col-sm-12">
+								<div class="gap-10"></div>
+							</div><!--end widget-->
+						</div><!--end row-->
+
+					</div><!--end wrap-content-->
+				</div><!--end template-page-->
+			</div><!--end container-->
+		</div><!--end footer-->
+	</div><!-- #page -->
+
+    
+	<!-- Analytics -->
+	
+	
+<!-- Generated in 6.563 seconds. (68 q) -->
+
+	<!-- Modal Login form -->
+<div id="kleo-login-modal" class="kleo-form-modal main-color mfp-hide">
+  <div class="row">
+    <div class="col-sm-12 text-center">
+
+      
+        <div class="kleo-pop-title-wrap main-color">
+            <h3 class="kleo-pop-title">Log in with your credentials</h3>
+
+            
+                <p>
+                    <em>or</em>&nbsp;&nbsp;&nbsp;&nbsp;
+                    <a href="http://ping2pong.azurewebsites.net/register/" class="new-account">
+                        Create an account                    </a>
+                </p>
+
+                    </div>
+
+        <form action="http://ping2pong.azurewebsites.net/wp-login.php" id="login_form" name="login_form" method="post" class="kleo-form-signin">
+            <input type="hidden" id="security" name="security" value="038e271e4a" /><input type="hidden" name="_wp_http_referer" value="/register/" />            <input type="text" id="username" autofocus required name="log" class="form-control" value="" placeholder="Username">
+            <input type="password" id="password" required value="" name="pwd" class="form-control" placeholder="Password">
+            <div id="kleo-login-result"></div>
+            <button class="btn btn-lg btn-default btn-block" type="submit">Sign in</button>
+            <label class="checkbox pull-left">
+              <input id="rememberme" name="rememberme" type="checkbox" value="forever"> Remember me            </label>
+            <a href="#kleo-lostpass-modal" class="kleo-show-lostpass kleo-other-action pull-right">Lost your password?</a>
+            <span class="clearfix"></span>
+
+            
+        </form>
+
+    </div>
+  </div>
+</div><!-- END Modal Login form -->
+
+
+
+<!-- Modal Lost Password form -->
+<div id="kleo-lostpass-modal" class="kleo-form-modal main-color mfp-hide">
+  <div class="row">
+    <div class="col-sm-12 text-center">
+      <div class="kleo-pop-title-wrap alternate-color">
+        <h2 class="kleo-pop-title">Forgot your details?</h2>
+      </div>
+
+      
+      <form id="forgot_form" name="forgot_form" action="" method="post" class="kleo-form-signin">
+        <input type="hidden" id="security" name="security" value="038e271e4a" /><input type="hidden" name="_wp_http_referer" value="/register/" />        <input type="text" id="forgot-email" autofocus required  name="user_login" class="form-control" placeholder="Username or Email">
+        <div id="kleo-lost-result"></div>
+        <button class="btn btn-lg btn-default btn-block" type="submit">Reset Password</button>
+        <a href="#kleo-login-modal" class="kleo-show-login kleo-other-action pull-right">I remember my details</a>
+        <span class="clearfix"></span>
+      </form>
+
+    </div>
+  </div>
+</div><!-- END Modal Lost Password form -->
+
+<link rel='stylesheet' id='buttons-css'  href="http://ping2pong.azurewebsites.net/wp-includes/css/buttons.min.css?b04220" type='text/css' media='all' />
+<script type='text/javascript' src="http://ping2pong.azurewebsites.net/wp-includes/js/jquery/ui/core.min.js?b04220"></script>
+<script type='text/javascript' src="http://ping2pong.azurewebsites.net/wp-includes/js/jquery/ui/widget.min.js?b04220"></script>
+<script type='text/javascript' src="http://ping2pong.azurewebsites.net/wp-includes/js/jquery/ui/mouse.min.js?b04220"></script>
+<script type='text/javascript' src="http://ping2pong.azurewebsites.net/wp-includes/js/jquery/ui/resizable.min.js?b04220"></script>
+<script type='text/javascript' src="http://ping2pong.azurewebsites.net/wp-includes/js/jquery/ui/draggable.min.js?b04220"></script>
+<script type='text/javascript' src="http://ping2pong.azurewebsites.net/wp-includes/js/jquery/ui/button.min.js?b04220"></script>
+<script type='text/javascript' src="http://ping2pong.azurewebsites.net/wp-includes/js/jquery/ui/position.min.js?b04220"></script>
+<script type='text/javascript' src="http://ping2pong.azurewebsites.net/wp-includes/js/jquery/ui/dialog.min.js?b04220"></script>
+<script type='text/javascript' src="http://ping2pong.azurewebsites.net/wp-includes/js/wpdialog.min.js?b04220"></script>
+<script type='text/javascript' async="async" defer="defer" src='https://www.google.com/recaptcha/api.js?onload=onloadCaptchaCallback&#038;render=explicit&#038;ver=4.4.2'></script>
+<script type='text/javascript' src="http://ping2pong.azurewebsites.net/wp-content/themes/kleo/assets/js/bootstrap.min.js?b04220"></script>
+<script type='text/javascript' src="http://ping2pong.azurewebsites.net/wp-content/plugins/js_composer/assets/lib/waypoints/waypoints.min.js?b04220"></script>
+<script type='text/javascript' src="http://ping2pong.azurewebsites.net/wp-content/themes/kleo/assets/js/plugins/magnific-popup/magnific.min.js?b04220"></script>
+<script type='text/javascript' src="http://ping2pong.azurewebsites.net/wp-content/themes/kleo/assets/js/plugins/carouFredSel/jquery.carouFredSel-6.2.0-packed.js?b04220"></script>
+<script type='text/javascript' src="http://ping2pong.azurewebsites.net/wp-content/themes/kleo/assets/js/plugins/carouFredSel/helper-plugins/jquery.touchSwipe.min.js?b04220"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mejsL10n = {"language":"en-US","strings":{"Close":"Close","Fullscreen":"Fullscreen","Download File":"Download File","Download Video":"Download Video","Play\/Pause":"Play\/Pause","Mute Toggle":"Mute Toggle","None":"None","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Unmute":"Unmute","Mute":"Mute","Captions\/Subtitles":"Captions\/Subtitles"}};
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src="http://ping2pong.azurewebsites.net/wp-includes/js/mediaelement/mediaelement-and-player.min.js?b04220"></script>
+<script type='text/javascript' src="http://ping2pong.azurewebsites.net/wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/isotope.pkgd.min.js?b04220"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var kleoFramework = {"ajaxurl":"http:\/\/ping2pong.azurewebsites.net\/wp-admin\/admin-ajax.php","themeUrl":"http:\/\/ping2pong.azurewebsites.net\/wp-content\/themes\/kleo","loginUrl":"http:\/\/ping2pong.azurewebsites.net\/wp-login.php","goTop":"0","ajaxSearch":"1","alreadyLiked":"You already like this","logo":"","retinaLogo":"","headerHeight":"88","loadingmessage":"<i class=\"icon icon-spin5 animate-spin\"><\/i> Sending info, please wait...","bpNotificationsRefresh":"20000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src="http://ping2pong.azurewebsites.net/wp-content/themes/kleo/assets/js/app.min.js?b04220"></script>
+<script type='text/javascript' src="http://ping2pong.azurewebsites.net/wp-includes/js/wp-embed.min.js?b04220"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var userSettings = {"url":"\/","uid":"0","time":"1454811339","secure":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src="http://ping2pong.azurewebsites.net/wp-includes/js/utils.min.js?b04220"></script>
+<script type='text/javascript' src="http://ping2pong.azurewebsites.net/wp-admin/js/editor.min.js?b04220"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var quicktagsL10n = {"closeAllOpenTags":"Close all open tags","closeTags":"close tags","enterURL":"Enter the URL","enterImageURL":"Enter the URL of the image","enterImageDescription":"Enter a description of the image","textdirection":"text direction","toggleTextdirection":"Toggle Editor Text Direction","dfw":"Distraction-free writing mode","strong":"Bold","strongClose":"Close bold tag","em":"Italic","emClose":"Close italic tag","link":"Insert link","blockquote":"Blockquote","blockquoteClose":"Close blockquote tag","del":"Deleted text (strikethrough)","delClose":"Close deleted text tag","ins":"Inserted text","insClose":"Close inserted text tag","image":"Insert image","ul":"Bulleted list","ulClose":"Close bulleted list tag","ol":"Numbered list","olClose":"Close numbered list tag","li":"List item","liClose":"Close list item tag","code":"Code","codeClose":"Close code tag","more":"Insert Read More tag"};
+/* ]]> */
+</script>
+<script type='text/javascript' src="http://ping2pong.azurewebsites.net/wp-includes/js/quicktags.min.js?b04220"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpLinkL10n = {"title":"Insert\/edit link","update":"Update","save":"Add Link","noTitle":"(no title)","noMatchesFound":"No results found."};
+/* ]]> */
+</script>
+<script type='text/javascript' src="http://ping2pong.azurewebsites.net/wp-includes/js/wplink.min.js?b04220"></script>
+
+		<script type="text/javascript">
+		tinyMCEPreInit = {
+			baseURL: "http://ping2pong.azurewebsites.net/wp-includes/js/tinymce",
+			suffix: ".min",
+						mceInit: {'field_251':{theme:"modern",skin:"lightgray",language:"en",formats:{alignleft: [{selector: "p,h1,h2,h3,h4,h5,h6,td,th,div,ul,ol,li", styles: {textAlign:"left"}},{selector: "img,table,dl.wp-caption", classes: "alignleft"}],aligncenter: [{selector: "p,h1,h2,h3,h4,h5,h6,td,th,div,ul,ol,li", styles: {textAlign:"center"}},{selector: "img,table,dl.wp-caption", classes: "aligncenter"}],alignright: [{selector: "p,h1,h2,h3,h4,h5,h6,td,th,div,ul,ol,li", styles: {textAlign:"right"}},{selector: "img,table,dl.wp-caption", classes: "alignright"}],strikethrough: {inline: "del"}},relative_urls:false,remove_script_host:false,convert_urls:false,browser_spellcheck:true,fix_list_elements:true,entities:"38,amp,60,lt,62,gt",entity_encoding:"raw",keep_styles:false,cache_suffix:"wp-mce-4208-20151113",preview_styles:"font-family font-size font-weight font-style text-decoration text-transform",end_container_on_empty_block:true,wpeditimage_disable_captions:false,wpeditimage_html5_captions:false,plugins:"colorpicker,lists,fullscreen,image,wordpress,wpeditimage,wplink",wp_lang_attr:"en-US",content_css:"http://ping2pong.azurewebsites.net/wp-includes/css/dashicons.min.css?ver=4.4.2,http://ping2pong.azurewebsites.net/wp-includes/js/tinymce/skins/wordpress/wp-content.css?ver=4.4.2",selector:"#field_251",resize:"vertical",menubar:false,wpautop:true,indent:false,toolbar1:"bold,italic,underline,blockquote,strikethrough,bullist,numlist,alignleft,aligncenter,alignright,undo,redo,link,unlink,fullscreen",toolbar2:"",toolbar3:"",toolbar4:"",tabfocus_elements:":prev,:next",body_class:"field_251 post-type-page post-status-publish locale-en-us"},'field_261':{theme:"modern",skin:"lightgray",language:"en",formats:{alignleft: [{selector: "p,h1,h2,h3,h4,h5,h6,td,th,div,ul,ol,li", styles: {textAlign:"left"}},{selector: "img,table,dl.wp-caption", classes: "alignleft"}],aligncenter: [{selector: "p,h1,h2,h3,h4,h5,h6,td,th,div,ul,ol,li", styles: {textAlign:"center"}},{selector: "img,table,dl.wp-caption", classes: "aligncenter"}],alignright: [{selector: "p,h1,h2,h3,h4,h5,h6,td,th,div,ul,ol,li", styles: {textAlign:"right"}},{selector: "img,table,dl.wp-caption", classes: "alignright"}],strikethrough: {inline: "del"}},relative_urls:false,remove_script_host:false,convert_urls:false,browser_spellcheck:true,fix_list_elements:true,entities:"38,amp,60,lt,62,gt",entity_encoding:"raw",keep_styles:false,cache_suffix:"wp-mce-4208-20151113",preview_styles:"font-family font-size font-weight font-style text-decoration text-transform",end_container_on_empty_block:true,wpeditimage_disable_captions:false,wpeditimage_html5_captions:false,plugins:"colorpicker,lists,fullscreen,image,wordpress,wpeditimage,wplink",wp_lang_attr:"en-US",content_css:"http://ping2pong.azurewebsites.net/wp-includes/css/dashicons.min.css?ver=4.4.2,http://ping2pong.azurewebsites.net/wp-includes/js/tinymce/skins/wordpress/wp-content.css?ver=4.4.2",selector:"#field_261",resize:"vertical",menubar:false,wpautop:true,indent:false,toolbar1:"bold,italic,underline,blockquote,strikethrough,bullist,numlist,alignleft,aligncenter,alignright,undo,redo,link,unlink,fullscreen",toolbar2:"",toolbar3:"",toolbar4:"",tabfocus_elements:":prev,:next",body_class:"field_261 post-type-page post-status-publish locale-en-us"}},
+			qtInit: {'field_251':{id:"field_251",buttons:"strong,em,link,block,del,ins,img,ul,ol,li,code,more,close"},'field_261':{id:"field_261",buttons:"strong,em,link,block,del,ins,img,ul,ol,li,code,more,close"}},
+			ref: {plugins:"colorpicker,lists,fullscreen,image,wordpress,wpeditimage,wplink",theme:"modern",language:"en"},
+			load_ext: function(url,lang){var sl=tinymce.ScriptLoader;sl.markDone(url+'/langs/'+lang+'.js');sl.markDone(url+'/langs/'+lang+'_dlg.js');}
+		};
+		</script>
+		<script type='text/javascript' src="http://ping2pong.azurewebsites.net/wp-includes/js/tinymce/tinymce.min.js?b04220"></script>
+<script type='text/javascript' src="http://ping2pong.azurewebsites.net/wp-includes/js/tinymce/plugins/compat3x/plugin.min.js?b04220"></script>
+<script type='text/javascript'>
+tinymce.addI18n( 'en', {"Ok":"OK","Bullet list":"Bulleted list","Spellcheck":"Check Spelling","Row properties":"Table row properties","Cell properties":"Table cell properties","Paste row before":"Paste table row before","Paste row after":"Paste table row after","Cut row":"Cut table row","Copy row":"Copy table row","Merge cells":"Merge table cells","Split cell":"Split table cell","Paste is now in plain text mode. Contents will now be pasted as plain text until you toggle this option off.":"Paste is now in plain text mode. Contents will now be pasted as plain text until you toggle this option off.\n\nIf you\u2019re looking to paste rich content from Microsoft Word, try turning this option off. The editor will clean up text pasted from Word automatically.","Rich Text Area. Press ALT-F9 for menu. Press ALT-F10 for toolbar. Press ALT-0 for help":"Rich Text Area. Press Alt-Shift-H for help","You have unsaved changes are you sure you want to navigate away?":"The changes you made will be lost if you navigate away from this page.","Your browser doesn't support direct access to the clipboard. Please use the Ctrl+X\/C\/V keyboard shortcuts instead.":"Your browser does not support direct access to the clipboard. Please use keyboard shortcuts or your browser\u2019s edit menu instead.","Edit ":"Edit"});
+tinymce.ScriptLoader.markDone( 'http://ping2pong.azurewebsites.net/wp-includes/js/tinymce/langs/en.js' );
+</script>
+		<script type="text/javascript">
+		var ajaxurl = "/wp-admin/admin-ajax.php";
+		( function() {
+			var init, id, $wrap;
+
+			if ( typeof tinymce !== 'undefined' ) {
+				for ( id in tinyMCEPreInit.mceInit ) {
+					init = tinyMCEPreInit.mceInit[id];
+					$wrap = tinymce.$( '#wp-' + id + '-wrap' );
+
+					if ( ( $wrap.hasClass( 'tmce-active' ) || ! tinyMCEPreInit.qtInit.hasOwnProperty( id ) ) && ! init.wp_skip_init ) {
+						tinymce.init( init );
+
+						if ( ! window.wpActiveEditor ) {
+							window.wpActiveEditor = id;
+						}
+					}
+				}
+			}
+
+			if ( typeof quicktags !== 'undefined' ) {
+				for ( id in tinyMCEPreInit.qtInit ) {
+					quicktags( tinyMCEPreInit.qtInit[id] );
+
+					if ( ! window.wpActiveEditor ) {
+						window.wpActiveEditor = id;
+					}
+				}
+			}
+		}());
+		</script>
+				<div id="wp-link-backdrop" style="display: none"></div>
+		<div id="wp-link-wrap" class="wp-core-ui" style="display: none">
+		<form id="wp-link" tabindex="-1">
+		<input type="hidden" id="_ajax_linking_nonce" name="_ajax_linking_nonce" value="03ab431baa" />		<div id="link-modal-title">
+			Insert/edit link			<button type="button" id="wp-link-close"><span class="screen-reader-text">Close</span></button>
+	 	</div>
+		<div id="link-selector">
+			<div id="link-options">
+				<p class="howto">Enter the destination URL</p>
+				<div>
+					<label><span>URL</span><input id="wp-link-url" type="text" /></label>
+				</div>
+				<div class="wp-link-text-field">
+					<label><span>Link Text</span><input id="wp-link-text" type="text" /></label>
+				</div>
+				<div class="link-target">
+					<label><span>&nbsp;</span><input type="checkbox" id="wp-link-target" /> Open link in a new tab</label>
+				</div>
+			</div>
+			<p class="howto"><a href="#" id="wp-link-search-toggle">Or link to existing content</a></p>
+			<div id="search-panel">
+				<div class="link-search-wrapper">
+					<label>
+						<span class="search-label">Search</span>
+						<input type="search" id="wp-link-search" class="link-search-field" autocomplete="off" />
+						<span class="spinner"></span>
+					</label>
+				</div>
+				<div id="search-results" class="query-results" tabindex="0">
+					<ul></ul>
+					<div class="river-waiting">
+						<span class="spinner"></span>
+					</div>
+				</div>
+				<div id="most-recent-results" class="query-results" tabindex="0">
+					<div class="query-notice" id="query-notice-message">
+						<em class="query-notice-default">No search term specified. Showing recent items.</em>
+						<em class="query-notice-hint screen-reader-text">Search or use up and down arrow keys to select an item.</em>
+					</div>
+					<ul></ul>
+					<div class="river-waiting">
+						<span class="spinner"></span>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="submitbox">
+			<div id="wp-link-cancel">
+				<a class="submitdelete deletion" href="#">Cancel</a>
+			</div>
+			<div id="wp-link-update">
+				<input type="submit" value="Add Link" class="button button-primary" id="wp-link-submit" name="wp-link-submit">
+			</div>
+		</div>
+		</form>
+		</div>
+		
+</body>
+</html>
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+Database Caching 5/71 queries in 0.339 seconds using disk
+
+ Served from: ping2pong.azurewebsites.net @ 2016-02-06 21:15:44 by W3 Total Cache -->
